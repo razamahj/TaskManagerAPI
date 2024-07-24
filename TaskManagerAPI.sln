@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerAPI", "TaskManagerAPI\TaskManagerAPI.csproj", "{04B6742D-ADBA-4003-9234-31C9D230EAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerAPI.Tests", "TaskManagerAPI.Tests\TaskManagerAPI.Tests.csproj", "{24776C5D-7C21-46C4-ABB6-8D8578C26F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B6742D-ADBA-4003-9234-31C9D230EAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B6742D-ADBA-4003-9234-31C9D230EAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B6742D-ADBA-4003-9234-31C9D230EAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B6742D-ADBA-4003-9234-31C9D230EAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24776C5D-7C21-46C4-ABB6-8D8578C26F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24776C5D-7C21-46C4-ABB6-8D8578C26F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24776C5D-7C21-46C4-ABB6-8D8578C26F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24776C5D-7C21-46C4-ABB6-8D8578C26F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57298F2F-6FA3-4986-9E96-08BEB29B1102}
+	EndGlobalSection
+EndGlobal
